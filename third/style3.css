@@ -1,0 +1,51 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+header {
+  height: 100px;
+  padding: 10px;
+  background-color: #D8D8D8;
+}
+
+.blue-box {
+  height: 90px;
+  width: 90px;
+  /*margin: 10px 10px;*/
+  background-color: #4A90E2;
+}
+
+.message{
+  margin: 30px;
+  padding: 0;
+  height: 175px;
+  align-items: center;
+  display: flex;
+  font-family: "Open Sans";
+}
+
+/*.wrapper {
+  height: 100%
+}*/
+
+.blue {
+  height: 115px;
+  background-color: #4A90E2;
+}
+
+.teal {
+  height: 115px;
+  background-color: #50E3C2;
+}
+
+.puke {
+  height: 115px;
+  background-color: #B8E986;
+}
+
+.yellow {
+  height: 115px;
+  background-color: #F8E71C;
+}
